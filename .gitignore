@@ -13,3 +13,6 @@ __pycache__/
 *.spec
 build/
 dist/
+
+# Archivos de salida de prueba
+*.png

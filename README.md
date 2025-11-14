@@ -1,24 +1,27 @@
-# 🚀 Generador de Códigos QR
+# 🚀 Generador de Códigos QR 
 
-Un script simple de Python que te permite generar un código QR a partir de cualquier URL.
+Una aplicación de escritorio para Windows que te permite generar un código QR a partir de cualquier URL y guardarlo donde quieras.
 
-## 📦 Instalación y Uso
+Construida con Python usando `CustomTkinter`.
 
-### Opción 1: Para usarlo directamente desde el código
+---
+![img.png](img.png)
 
-1.  Clona o descarga este repositorio.
-2.  (Opcional pero recomendado) Crea un entorno virtual: `python -m venv venv`
-3.  Instala las dependencias: `pip install qrcode Pillow`
-4.  Ejecuta el script:
-    ```bash
-    python QR_generator.py
-    ```
-5.  Sigue las instrucciones en la consola.
-
-### Opción 2: Ejecutable (.exe)
-
-
+---
+## 📦 Uso (Ejecutable .exe)
 
 1.  Ve a la sección de **"Releases"** en la barra lateral derecha de esta página de GitHub.
-2.  Descarga el archivo `QR_generator.exe` de la última versión.
-3.  Ejecútalo y sigue las instrucciones.
+2.  Descarga el archivo `app.exe` de la última versión.
+3.  Ejecútalo y úsalo.
+
+## 💻 Directamente desde el código
+
+1.  Clona el repositorio.
+2.  Instala las dependencias:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  Ejecuta la aplicación:
+    ```bash
+    python app.py
+    ```
