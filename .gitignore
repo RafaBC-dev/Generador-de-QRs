@@ -16,3 +16,4 @@ dist/
 
 # Archivos de salida de prueba
 *.png
+!img.png

@@ -5,7 +5,7 @@ Una aplicación de escritorio para Windows que te permite generar un código QR 
 Construida con Python usando `CustomTkinter`.
 
 ---
-![img.png](img.png)
+![Captura de la App](img.png)
 
 ---
 ## 📦 Uso (Ejecutable .exe)
